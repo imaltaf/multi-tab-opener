@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #333, #000);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+h1,h4 {
+    font-size: 24px;
+    color: #fff;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(30, 203, 0, 0.5);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+.input-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.formControlRange {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(30, 203, 0, 0.5);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+label {
+    font-size: 18px;
+    color: #fff;
+}
+
+input[type="text"] {
+    width: calc(100% - 20px);
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid rgba(30, 203, 0, 0.8);
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 15px;
+}
+
+button.open,
+button.stop,
+button.reset {
+    padding: 10px 20px; /* Smaller buttons */
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+button.open:hover,
+button.stop:hover,
+button.reset:hover {
+    background: linear-gradient(to bottom, #008f09, #007b07);
+    box-shadow: 0 0 10px rgba(30, 203, 0, 0.5); /* Glowing effect */
+}
+
+.result-container {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #fff;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* Your existing styles */
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+textarea {
+    resize: none;
+    border-radius: 5px;
+    opacity: 0.8;
+    background-color: transparent;
+    color: white;
+}
+/* Your existing styles */
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    height: 40px; /* Adjust the height as needed */
+    margin-right: 10px;
+}
+
+.company-info h1 {
+    font-size: 24px;
+    color: #fff;
+}
+
+/* Your existing styles */
+
+.reset {
+    background: linear-gradient(to bottom, #ff3333, #cc0000); /* Red gradient button */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.3s;
+}
+
+.reset:hover {
+    background: linear-gradient(to bottom, #cc0000, #aa0000); /* Darker red on hover */
+}
+
+/*
