@@ -9,7 +9,7 @@ function generateURL() {
     const urlInput = document.getElementById('urlInput').value;
     
     const idsArray = idsInput.split(' ');
-    const generatedURLs = idsArray.map(id => `${urlInput}?id=${id}`).join('\n');
+    const generatedURLs = idsArray.map(id => `${urlInput}${id}`).join('\n');
     
     document.getElementById('output').value = generatedURLs;
 }
