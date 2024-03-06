@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "Opens multiple URLs in one click",
   "icons": {
-    "128": "images/red Logo.png"
+    "128": "images/opener-removebg.png"
   },
   "permissions": [
     "tabs",
@@ -15,7 +15,7 @@
   },
   "browser_action": {
     "default_icon": {
-      "128": "images/red Logo.png"
+      "128": "images/opener-removebg.png"
     }
   },
   "manifest_version": 2
