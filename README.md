@@ -5,7 +5,7 @@ Welcome to the installation page for our extension. Follow the instructions belo
 **Instructions:**
 
 1. Download the extension ZIP file from the link below:
-   [Download Extension]([your-extension.zip](https://github.com/imaltaf/multi-tab-opener/archive/refs/heads/main.zip))
+   [Download Extension](https://github.com/imaltaf/multi-tab-opener/archive/refs/heads/main.zip)
 
 2. Extract the ZIP file to a location on your computer.
 
