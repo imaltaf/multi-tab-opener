@@ -15,4 +15,4 @@ We highly value your trust and interest in using our application, so we are stri
 This Privacy Policy is liable to change from time to time, so you’re requested to review our policy periodically. We will also notify you when there are any changes made to the Privacy Policy.
 These changes/updates are immediately effective after it is posted, which will also be notified to you before the change.
 ## Contact Us
-If you have more suggestions or questions about our Privacy Policy, don’t hesitate to reach us at hyadagirireddytutorials@gmail.com
+If you have more suggestions or questions about our Privacy Policy, don’t hesitate to reach us at support@opensecai.com
