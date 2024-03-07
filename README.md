@@ -20,3 +20,33 @@ Welcome to the installation page for our extension. Follow the instructions belo
 7. The extension should now be installed and active.
 
 If you encounter any issues during installation, feel free to contact us for support.
+
+
+# Usages
+
+##  Step 1
+
+- Copy and paste ids and Url
+- click generate
+
+![alt text](/images/img/image.png)
+
+## step 2
+
+- After generate click copy  
+
+![alt text](/images/img/image2.png)
+
+## step 3
+
+- paste generated urls 
+- ajust seconds of delay to open tabs 
+- click open-URLs
+
+![alt text](/images/img/image3.png)
+
+
+
+## step 4 - Reset Everything
+
+![alt text](/images/img/image4.png)
